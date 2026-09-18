@@ -12,7 +12,7 @@
 
 - Java
 - C
-- Python(Basic)
+- Python (Basic)
 - HTML
 - CSS
 - JavaScript
