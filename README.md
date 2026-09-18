@@ -17,7 +17,6 @@
 - CSS
 - JavaScript
 - Data Structures & Algorithms
-- AI & Emerging Technologies
 
 ## 🌐 Connect with Me
 
