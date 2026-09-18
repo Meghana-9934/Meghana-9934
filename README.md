@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-- LinkedIn
-- Portfolio
+- [LinkedIn](https://www.linkedin.com/in/sonapuram-meghana-827196371)
+- [Portfolio](https://meghana-9934.github.io/Meghana-portfolio/)
 
 Thanks for visiting my profile! 😊
