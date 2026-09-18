@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sonapuram Meghana 👋
 
-<!--
-**Meghana-9934/Meghana-9934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Java | C | Basic Python | HTML | CSS | JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Building my skills in Data Structures & Algorithms and AI
+
+🚀 Tech Enthusiast | Always learning and exploring new technologies
+
+## 🛠️ Skills
+
+- Java
+- C
+- Python
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms
+- AI & Emerging Technologies
+
+## 🌐 Connect with Me
+
+- LinkedIn
+- Portfolio
+
+Thanks for visiting my profile! 😊
