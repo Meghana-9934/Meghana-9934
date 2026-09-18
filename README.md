@@ -2,7 +2,7 @@
 
 🎓 B.Tech CSE Student
 
-💻 Java | C | Basic Python | HTML | CSS | JavaScript
+💻 Java | C | Python Basic | HTML | CSS | JavaScript
 
 🌱 Building my skills in Data Structures & Algorithms and AI
 
@@ -12,7 +12,7 @@
 
 - Java
 - C
-- Python
+- Python(Basic)
 - HTML
 - CSS
 - JavaScript
